@@ -1,0 +1,57 @@
+body {
+    background-image: ur1("https://ropik.ir/wp-content/uploads/2022/07/story-ideas-for-clothing-store-page-on-instagram.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#title {
+    text-align: center;
+    border: 3px solid rgb(52, 1, 52);
+    color: rgba(10, 1, 67, 0.995);
+}
+#shop{
+    display: flex;
+    flex-wrap: nowrap;
+}
+#shop  div {
+  width: 40%;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  }
+
+/* img{
+    width: 60%;
+} */
+
+#shop{
+    margin-top: 9px;
+}
+
+
+.posters{
+
+width: 350px;
+height: 350px;
+border-radius: 20px;
+ ;
+
+}
+#cl{
+    color: rgba(68, 3, 75, 0.319) ;
+}
+#cl1{
+    color: rgb(82, 46, 2);
+}
+#cl2{
+    color: rgba(200, 7, 7, 0.53);
+}
+#but{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 500px;
+    font: size 20px;;
+}
